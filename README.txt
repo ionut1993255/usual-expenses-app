@@ -13,6 +13,8 @@ and reuse the code.
 
 Check out the custom favicon *wink *wink
 
+Here you can see my project in action: https://ionut-usual-expenses-application.netlify.app/
+
 Hope you enjoy !!!
 
 
