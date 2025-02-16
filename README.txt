@@ -11,7 +11,7 @@ list of his expenses below the chart.
 I built individual standalone components for each logical item in the app to better maintain 
 and reuse the code.
 
-Check out the custom favicon *wink *wink
+Check out the custom favicon 😉
 
 Here you can see my project in action: https://ionut-usual-expenses-application.netlify.app/
 
